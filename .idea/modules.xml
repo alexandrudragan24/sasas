@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sasas.iml" filepath="$PROJECT_DIR$/.idea/modules/sasas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sasas_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sasas_main.iml" group="sasas" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sasas_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sasas_test.iml" group="sasas" />
+    </modules>
+  </component>
+</project>
